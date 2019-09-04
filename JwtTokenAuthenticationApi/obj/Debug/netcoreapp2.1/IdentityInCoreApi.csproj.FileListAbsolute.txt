@@ -1,0 +1,14 @@
+C:\Users\raj_d\source\repos\IdentityInCoreExample\IdentityInCoreApi\bin\Debug\netcoreapp2.1\IdentityInCoreApi.deps.json
+C:\Users\raj_d\source\repos\IdentityInCoreExample\IdentityInCoreApi\bin\Debug\netcoreapp2.1\IdentityInCoreApi.runtimeconfig.json
+C:\Users\raj_d\source\repos\IdentityInCoreExample\IdentityInCoreApi\bin\Debug\netcoreapp2.1\IdentityInCoreApi.runtimeconfig.dev.json
+C:\Users\raj_d\source\repos\IdentityInCoreExample\IdentityInCoreApi\bin\Debug\netcoreapp2.1\IdentityInCoreApi.dll
+C:\Users\raj_d\source\repos\IdentityInCoreExample\IdentityInCoreApi\bin\Debug\netcoreapp2.1\IdentityInCoreApi.pdb
+C:\Users\raj_d\source\repos\IdentityInCoreExample\IdentityInCoreApi\obj\Debug\netcoreapp2.1\IdentityInCoreApi.csproj.CoreCompileInputs.cache
+C:\Users\raj_d\source\repos\IdentityInCoreExample\IdentityInCoreApi\obj\Debug\netcoreapp2.1\IdentityInCoreApi.RazorAssemblyInfo.cache
+C:\Users\raj_d\source\repos\IdentityInCoreExample\IdentityInCoreApi\obj\Debug\netcoreapp2.1\IdentityInCoreApi.RazorAssemblyInfo.cs
+C:\Users\raj_d\source\repos\IdentityInCoreExample\IdentityInCoreApi\obj\Debug\netcoreapp2.1\IdentityInCoreApi.AssemblyInfoInputs.cache
+C:\Users\raj_d\source\repos\IdentityInCoreExample\IdentityInCoreApi\obj\Debug\netcoreapp2.1\IdentityInCoreApi.AssemblyInfo.cs
+C:\Users\raj_d\source\repos\IdentityInCoreExample\IdentityInCoreApi\obj\Debug\netcoreapp2.1\IdentityInCoreApi.RazorTargetAssemblyInfo.cache
+C:\Users\raj_d\source\repos\IdentityInCoreExample\IdentityInCoreApi\obj\Debug\netcoreapp2.1\IdentityInCoreApi.dll
+C:\Users\raj_d\source\repos\IdentityInCoreExample\IdentityInCoreApi\obj\Debug\netcoreapp2.1\IdentityInCoreApi.pdb
+C:\Users\raj_d\source\repos\IdentityInCoreExample\IdentityInCoreApi\obj\Debug\netcoreapp2.1\IdentityInCoreApi.csprojAssemblyReference.cache
